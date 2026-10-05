@@ -1,0 +1,36 @@
+.all-events {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: no-wrap;
+}
+
+.all-events header {
+    background-color: var(--main-color);
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 30px 50px;
+}
+
+.all-events header label {
+    color: white;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-top: 15px;
+    margin-bottom: 5px;
+}
+
+.all-events main {
+    text-align: center;
+    padding: 30px;
+    margin: 30px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.all-events main i {
+    margin-right: 10px;
+}
