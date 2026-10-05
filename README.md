@@ -4,7 +4,7 @@ Submitted by: **Borys Solorzano**
 
 About this web app: **A virtual community space for the Underworld of Hades II. Four shrines — Hestia's Hearth, Poseidon's Cistern, Demeter's Winterbound Grove, and Zeus's Thunder Terrace — are laid out on an interactive map. Hovering a building reveals its name; clicking it opens that shrine's page with every event scheduled there, each with a live countdown. Past events are struck through in red.**
 
-Time spent: **[X]** hours
+Time spent: **[7]** hours
 
 ## Required Features
 
@@ -42,7 +42,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='./walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='Project3.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [ScreenToGif](https://www.screentogif.com/)
 
